@@ -1,0 +1,7 @@
+++compétences html5 et css3,
+créer un porfolio qui devra comporter :
+vos noms et prénom, 
+description, 
+coordonnées,
+formulaire de contact. 
+(beau et cool)
