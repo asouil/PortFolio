@@ -6,18 +6,18 @@ _Création d'une page de présentation avec formulaire de contact_
 
 __A Savoir__
 
-#Nom : 
+# Nom : 
 SOUIL
 
-#Prénom : 
+# Prénom : 
 Amaëlla
 
 ![codes utilisés](https://anthony-pilloud.fr/app/views/template/images/html5-css3-jquery.png)
 
-#Description : *page en cours de création*
+# Description : *page en cours de création*
 
-#Coordonnées : 
+# Coordonnées : 
 03100 Montluçon
 
-#Formulaire de contact :
+# Formulaire de contact :
 ![type de formulaire](https://mdn.mozillademos.org/files/15999/0006.png)
