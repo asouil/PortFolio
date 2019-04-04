@@ -17,6 +17,8 @@ Amaëlla
 # Description : *page en cours de création*
 
 # Coordonnées : 
+0687965974
+amaella.souil@gmail.com
 03100 Montluçon
 
 # Formulaire de contact :
