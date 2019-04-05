@@ -12,14 +12,16 @@ SOUIL
 # Prénom : 
 Amaëlla
 
-![codes utilisés](https://anthony-pilloud.fr/app/views/template/images/html5-css3-jquery.png)
-
 # Description : *page en cours de création*
-
-# Coordonnées : 
-0687965974
-amaella.souil@gmail.com
-03100 Montluçon
+![image de fond](./assets/img/maquette1)
+![image de fond](./assets/img/maquette3)
 
 # Formulaire de contact :
-![type de formulaire](https://mdn.mozillademos.org/files/15999/0006.png)
+![image de fond](./assets/img/maquette2)
+![image de fond](./assets/img/maquette4)
+
+
+# Coordonnées : 
+0687965***
+amaella.souil@gmail.com
+03100 Montluçon

@@ -11,7 +11,28 @@ section{
 table {
 
 	background-image:url(../IMG/eau.jpg); 
-	background-size: 100%;
+	background-size: 110%;
+	width:100%;
+
+}
+#contenu {
+	
+	padding-left: 4%;
+	padding-right: 4%;
+}
+
+#case1{
+	margin-left:10%;
+}
+#case2{
+	margin-left:-30%;
+	margin-right:30%;
+}
+
+h2{
+
+	margin-left:5%;
+	margin-right:15%;
 
 }
 
@@ -41,10 +62,11 @@ label{
 	font-size:100%;
 	width:70%;
 	height:240px;
+	margin-top:2%;
 	margin-left:12%;
 	margin-bottom:2%;
 	border-radius: 30px;
-	font-family: georgia;
+	font-family: cursive;
 	padding-top:10%;
 	padding-right:2%;
 	padding-left:2%;
@@ -58,22 +80,23 @@ h1 {
 }
 
 input {
-
+	font-family: cursive;
 	justify-content: right;
 	border-radius: 30px;
-	margin-right: 15px;
+	margin-right: 2%;
 	margin-top:2%;
 	padding-left: 2%;
 	padding-right:2%;
 }
 
 button{
+
 	background-image: url(../IMG/eau.jpg);
 	border-radius: 30px;
-	margin-left:15px;
+	margin-left:55%;
 }
 
 footer {
-
+	font-size:10px;
 
 }
