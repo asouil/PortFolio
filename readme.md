@@ -13,12 +13,12 @@ SOUIL
 Amaëlla
 
 # Description : *page en cours de création*
-![image de fond](./assets/img/maquette1)
-![image de fond](./assets/img/maquette3)
+![image de fond](./assets/img/maquette1.jpg)
+![image de fond](./assets/img/maquette3.jpg)
 
 # Formulaire de contact :
-![image de fond](./assets/img/maquette2)
-![image de fond](./assets/img/maquette4)
+![image de fond](./assets/img/maquette2.jpg)
+![image de fond](./assets/img/maquette4.jpg)
 
 
 # Coordonnées : 
