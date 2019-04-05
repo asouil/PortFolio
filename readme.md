@@ -13,12 +13,12 @@ SOUIL
 Amaëlla
 
 # Description : *page en cours de création*
-![image de fond](https://github.com/asouil/PortFolio/blob/master/Assets/IMG/maquette1.jpg=250px)
-![image de fond]((https://github.com/asouil/PortFolio/blob/master/Assets/IMG/maquette3.jpg)
+![Maquette1](https://github.com/asouil/PortFolio/blob/master/Assets/IMG/maquette1.jpg)
+![Maquette1_simplifiée]((https://github.com/asouil/PortFolio/blob/master/Assets/IMG/maquette3.jpg)
 
 # Formulaire de contact :
-![image de fond]((https://github.com/asouil/PortFolio/blob/master/Assets/IMG/maquette2.jpg)
-![image de fond]((https://github.com/asouil/PortFolio/blob/master/Assets/IMG/maquette4.jpg)
+![Maquette2]((https://github.com/asouil/PortFolio/blob/master/Assets/IMG/maquette2.jpg)
+![Maquette2_simplifiée]((https://github.com/asouil/PortFolio/blob/master/Assets/IMG/maquette4.jpg)
 
 
 # Coordonnées : 
