@@ -11,6 +11,7 @@ section{
 table {
 
 	background-image:url(../IMG/eau.jpg); 
+	background:no-repeat;
 	background-size: 110%;
 	width:100%;
 
@@ -39,12 +40,13 @@ h2{
 #premier {
 
 	background-image:url(../IMG/eau-turquoise.jpg);
+	background:no-repeat;
 	background-size: 500%;
 
 }
 
 #contact {
-
+	background:no-repeat;
 	background-image: url(../IMG/feu.jpg);
 	color:white ;
 	text-align:left;
